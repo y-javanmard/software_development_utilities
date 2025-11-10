@@ -1,4 +1,4 @@
-# 🧪⚛️ Commit Messages — Quick Guide (Quantum/AI)
+# 🧪⚛️ Commit Messages — Quick Guide for Quantum/AI software engineering
 
 A tiny, skimmable guide with icons. Keep it fast, clear, and useful for `git log` and releases.
 
@@ -72,9 +72,9 @@ Consistent messages → readable history, reliable changelogs, painless reviews.
 ```
 feat(tfi): implement system+bath Hamiltonian builder
 
-- J σxσx NN coupling + local hz fields
-- bath qubit with detuning Δ and XYZ interaction
-- unit tests: n=4; spectra match ED baseline
+- J $\sigma^x \sigma^x$ NN coupling + local $h_z$ fields
+- bath qubit with detuning $\Delta$ and XYZ interaction
+- unit tests: $n=4$; spectra match ED baseline
 
 Closes #42
 ```
