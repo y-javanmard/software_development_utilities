@@ -32,6 +32,8 @@ Consistent messages → readable history, reliable changelogs, painless reviews.
 - Imperative, present: **“add”, “fix”, “rename”**
 - lowercase first letter; **no period**
 
+## ***Note that the body and footer usually are not required.***
+
 ### 🧠 The Body (optional, encouraged)
 - Why + what changed; contrast previous vs new. If perf: note **hw/env + runs**.
 
