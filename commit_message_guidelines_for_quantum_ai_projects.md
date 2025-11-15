@@ -123,7 +123,7 @@ BREAKING CHANGE:
 
 ---
 
-### 📝 One-liners you can copy
+### 📝 One-liners examples
 - `feat(ed): add n-qubit spin-operator factory`
 - `fix(hamiltonian): correct hx sign in TFI field`
 - `perf(mpo): reuse env tensors for 2x faster sweeps`
