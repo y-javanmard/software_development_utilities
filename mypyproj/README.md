@@ -10,6 +10,7 @@ python mkpyproj/mkpyproj.py myproject \
     --python ">=3.11" \
     --version "0.0.1"
 ```
+***Note: you can change the authorname***
 
 ### It creates:
 
